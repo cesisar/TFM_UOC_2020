@@ -1,0 +1,26 @@
+[{"codi_variable":"72","nom_variable":"Precipitació màxima en 1 minut","unitat":"mm","acronim":"PPTx1min","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"3","nom_variable":"Humitat relativa màxima","unitat":"%","acronim":"HRx","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"30","nom_variable":"Velocitat del vent a 10 m (esc.)","unitat":"m/s","acronim":"VV10","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"31","nom_variable":"Direcció de vent 10 m (m. 1)","unitat":"°","acronim":"DV10","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"32","nom_variable":"Temperatura","unitat":"°C","acronim":"T","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"33","nom_variable":"Humitat relativa","unitat":"%","acronim":"HR","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"34","nom_variable":"Pressió atmosfèrica","unitat":"hPa","acronim":"P","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"35","nom_variable":"Precipitació","unitat":"mm","acronim":"PPT","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"36","nom_variable":"Irradiància solar global","unitat":"W/m²","acronim":"RS","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"38","nom_variable":"Gruix de neu a terra","unitat":"mm","acronim":"GNEU","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"40","nom_variable":"Temperatura màxima","unitat":"°C","acronim":"Tx","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"42","nom_variable":"Temperatura mínima","unitat":"°C","acronim":"Tn","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"44","nom_variable":"Humitat relativa mínima","unitat":"%","acronim":"HRn","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"46","nom_variable":"Velocitat del vent a 2 m (esc.)","unitat":"m/s","acronim":"VV2","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"47","nom_variable":"Direcció del vent a 2 m (m. 1)","unitat":"°","acronim":"DV2","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"48","nom_variable":"Velocitat del vent a 6 m (esc.)","unitat":"m/s","acronim":"VV6","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"49","nom_variable":"Direcció del vent a 6 m (m. 1)","unitat":"°","acronim":"DV6","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"50","nom_variable":"Ratxa màxima del vent a 10 m","unitat":"m/s","acronim":"VVx10","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"51","nom_variable":"Direcció de la ratxa màxima del vent a 10 m","unitat":"°","acronim":"DVVx10","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"53","nom_variable":"Ratxa màxima del vent a 6 m","unitat":"m/s","acronim":"VVx6","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"54","nom_variable":"Direcció de la ratxa màxima del vent a 6 m","unitat":"°","acronim":"DVVx6","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"56","nom_variable":"Ratxa màxima del vent a 2 m","unitat":"m/s","acronim":"VVx2","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"57","nom_variable":"Direcció de la ratxa màxima del vent a 2 m","unitat":"°","acronim":"DVVx2","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"59","nom_variable":"Irradiància neta","unitat":"W/m²","acronim":"RN","codi_tipus_var":"DAT","decimals":"0"}
+,{"codi_variable":"1","nom_variable":"Pressió atmosfèrica màxima","unitat":"hPa","acronim":"Px","codi_tipus_var":"DAT","decimals":"1"}
+,{"codi_variable":"2","nom_variable":"Pressió atmosfèrica mínima","unitat":"hPa","acronim":"Pn","codi_tipus_var":"DAT","decimals":"1"}]
