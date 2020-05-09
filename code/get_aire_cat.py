@@ -52,12 +52,9 @@ def run(argv):
     logger = createLogger()
     logger.setLevel(logLevel)
     
-    print (start)
-    print (end)
     if start > end:
         logger.error("Error input times.")
         exit(1)
-    exit(0)
     
     # Get air quality data for filter
     count = get_aire_cat(start, end, cities, variables, oFolder, oFile, genZip)
