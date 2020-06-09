@@ -1,0 +1,12 @@
+CODI_EOI,NOM_ESTACIO,TIPUS_ESTACIO,AREA URBANA,LATITUD,LONGITUD,ALTITUD,CONTAMINANT
+8019003,Barcelona (St. Gervasi),traffic,urban,41.40112814,2.146941613,75.0,['H2S' 'NOX']
+8019004,Barcelona (Poblenou),background,urban,41.40387833,2.204500953,3.0,['CO' 'NO' 'NO2' 'NOX' 'O3' 'PM10' 'SO2']
+8019039,Barcelona (Sagrera),traffic,urban,41.42221298,2.190555161,12.0,['NOX']
+8019042,Barcelona (Sants),traffic,urban,41.37878278,2.133098953,35.0,['CO' 'NO' 'NO2' 'NOX' 'SO2']
+8019043,Barcelona (Eixample),traffic,urban,41.3853145,2.1537999180000003,26.0,['CO' 'NO' 'NO2' 'NOX' 'O3' 'PM10' 'SO2']
+8019044,Barcelona (Gracia - Sant Gervasi),traffic,urban,41.39872171,2.153398848,57.0,['CO' 'NO' 'NO2' 'NOX' 'O3' 'PM10' 'SO2']
+8019050,Barcelona (Ciutadella),background,urban,41.38640312,2.187398163,7.0,['CO' 'NO' 'NO2' 'NOX' 'O3']
+8019054,Barcelona (Parc Vall Hebron),background,urban,41.426109100000005,2.148001585,136.0,['CO' 'NO' 'NO2' 'NOX' 'O3' 'PM10' 'SO2']
+8019056,Barcelona (Torre Girona),background,urban,41.38972628,2.115835735,81.0,['PM10' 'CO' 'H2S' 'NO' 'NO2' 'NOX' 'O3' 'SO2' 'PS']
+8019057,Barcelona (Palau Reial),background,urban,41.38749174,2.115199751,81.0,['CO' 'NO' 'NO2' 'NOX' 'O3' 'PM10' 'SO2']
+8019058,Barcelona (Observatori Fabra),background,suburban,41.41843,2.1238973,415.0,['NO' 'NO2' 'NOX' 'O3' 'PM10']
